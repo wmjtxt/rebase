@@ -11,6 +11,10 @@ using namespace std;
 int main(){
 	printf("hello\n");
 	printf("world\n");
+<<<<<<< HEAD
 	printf("rebase3\n");
+=======
+	printf("rebase1\n");
+>>>>>>> hello.c rebase1
 	return 0;
 }
