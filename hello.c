@@ -11,5 +11,6 @@ using namespace std;
 int main(){
 	printf("hello\n");
 	printf("world\n");
+	printf("rebase3\n");
 	return 0;
 }
